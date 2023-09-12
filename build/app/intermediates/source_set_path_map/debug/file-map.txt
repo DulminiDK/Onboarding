@@ -1,0 +1,12 @@
+com.vinukavianth.onboarding_screens.app-jetified-window-java-1.0.0-beta04-0 C:\Users\dulmini chamodya\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.vinukavianth.onboarding_screens.app-core-1.6.0-1 C:\Users\dulmini chamodya\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.vinukavianth.onboarding_screens.app-jetified-annotation-experimental-1.1.0-2 C:\Users\dulmini chamodya\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.vinukavianth.onboarding_screens.app-jetified-window-1.0.0-beta04-3 C:\Users\dulmini chamodya\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.vinukavianth.onboarding_screens.app-debug-4 D:\Downloads\onboarding_last\onboarding_section-main\android\app\src\debug\res
+com.vinukavianth.onboarding_screens.app-main-5 D:\Downloads\onboarding_last\onboarding_section-main\android\app\src\main\res
+com.vinukavianth.onboarding_screens.app-pngs-6 D:\Downloads\onboarding_last\onboarding_section-main\build\app\generated\res\pngs\debug
+com.vinukavianth.onboarding_screens.app-resValues-7 D:\Downloads\onboarding_last\onboarding_section-main\build\app\generated\res\resValues\debug
+com.vinukavianth.onboarding_screens.app-rs-8 D:\Downloads\onboarding_last\onboarding_section-main\build\app\generated\res\rs\debug
+com.vinukavianth.onboarding_screens.app-mergeDebugResources-9 D:\Downloads\onboarding_last\onboarding_section-main\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.vinukavianth.onboarding_screens.app-mergeDebugResources-10 D:\Downloads\onboarding_last\onboarding_section-main\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.vinukavianth.onboarding_screens.app-merged_res-11 D:\Downloads\onboarding_last\onboarding_section-main\build\app\intermediates\merged_res\debug
